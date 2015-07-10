@@ -1,5 +1,6 @@
 package basesdatos;
 
+
 import javax.swing.JOptionPane;
 
 public class VentanaUsuario extends javax.swing.JFrame {
